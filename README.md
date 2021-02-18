@@ -1,1 +1,3 @@
-print('Hello World');
+# IoT for Smart Agriculture
+
+The dawn of the Internet of Things (IoT) is ushering in a new era for humanity where we are able to apply an unprecedented level of computational precision to improve almost any aspect of our lives. For the uninitiated, this may seem to be just hyperbole or a far-off dream that we may or may not be able to achieve some time in the future. But the fact is, IoT is already here and it is disrupting everything from personal health to major industry to our battle against climate change, and it is here to stay.
